@@ -38,7 +38,14 @@
 		<div class="downloads">
 			<span>Courses:</span>
 			<ul>
-			<li><a href="#" class="button">AP Computer Science</a></li>
+			<li>
+				{% if page.title == 'AP CS' %}
+					<a href="#" class="button active">
+				{% else %}
+					<a href="#" class="button">
+				{% endif %}
+				AP Computer Science</a>
+			</li>
 			<li><a href="#" class="button">Intro. to Computer Science</a></li>
 			<li><a href="#" class="button">Advanced CS Topics/Projects (AP++)</a></li>
 			<li><a href="#" class="button">Web Design</a></li>
