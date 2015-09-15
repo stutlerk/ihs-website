@@ -1,5 +1,40 @@
 ---
-title: Intro CS
+title: AP CS
 layout: course
 ---
 AP Comp Sci!!
+
+<ul>
+{% for file in site.static_files %}
+	<li><a href="{{ file.path }}">{{ file.path }}</a></li>
+{% endfor %}
+</ul>
+
+<hr />
+
+<p> {{ site.documents }} </p>
+<ul>
+{% for file in site.documents %}
+	<li><a href="{{ file.path }}">{{ file.collection }} - {{ file.path }}</a></li>
+{% endfor %}
+</ul>
+
+<hr />
+
+<p> {{ site.collections }} </p>
+<ul>
+{% for coll in site.collections %}
+	<p> {{ coll.label }}</p>
+	<li><a href="{{ coll.path }}">{{ coll.label }}</a></li>
+{% endfor %}
+</ul>
+
+
+<hr />
+
+<p> {{ site.stuff }} </p>
+<ul>
+{% for file in site.stuff %}
+	<li><a href="{{ file.url }}">{{ file.url }}</a> - {{ file.output }}</li>
+{% endfor %}
+</ul>
