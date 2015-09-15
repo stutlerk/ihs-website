@@ -565,7 +565,7 @@ strong {
 }
 
 .wrapper {
-  width: 650px;
+  width: 850px;
   margin: 0 auto;
   position: relative;
 }
@@ -792,7 +792,7 @@ header p {
 }
 
 section {
-  width: 590px;
+  width: 790px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
@@ -842,7 +842,7 @@ nav {
   position: fixed;
   top: 220px;
   left: 50%;
-  margin-left: -580px;
+  margin-left: -680px;
   text-align: right;
 }
 nav ul {
@@ -876,7 +876,7 @@ footer {
   width: 180px;
   position: fixed;
   left: 50%;
-  margin-left: -530px;
+  margin-left: -630px;
   bottom: 20px;
   text-align: right;
   line-height: 16px;
