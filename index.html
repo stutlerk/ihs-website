@@ -2,7 +2,6 @@
 title: IHS Computer Science
 layout: default
 ---
-    <div class="wrapper">
       <section>
         <h3>
 <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
@@ -30,8 +29,14 @@ layout: default
 <p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
 
 	  <aside>
-		<h5>Mr. Wortzman</h5>
+		<h4>Mr. Wortzman</h4>
 		<p>wortzmanb@issaquah.wednet.edu</p>
+		<h5>Schedule:</h5>
+		<p>
+		{% for course in site.data.courses %}
+			Per. {{ course.period }}: {{ course.title }}<br />
+		{% endfor %}
+		</p>
 	  </aside>
 	  
       </section>
