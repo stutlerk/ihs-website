@@ -1,3 +1,5 @@
 collections:
   stuff:
     output: true
+  projects:
+    output: true
