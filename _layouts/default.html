@@ -4,8 +4,8 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="chrome=1">
 		<title>{{ page.title }}</title>
-		<link rel="stylesheet" href="stylesheets/styles.css">
-		<link rel="stylesheet" href="stylesheets/github-dark.css">
+		<link rel="stylesheet" href="{{ site.url }}/stylesheets/styles.css">
+		<link rel="stylesheet" href="{{ site.url }}/stylesheets/github-dark.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 		<script src="javascripts/main.js"></script>
 		<!--[if lt IE 9]>
@@ -39,16 +39,37 @@
 			<span>Courses:</span>
 			<ul>
 			<li>
-				{% if page.title == 'AP CS' %}
+				{% if page.course == 'AP' %}
 					<a href="#" class="button active">
 				{% else %}
 					<a href="#" class="button">
 				{% endif %}
 				AP Computer Science</a>
 			</li>
-			<li><a href="#" class="button">Intro. to Computer Science</a></li>
-			<li><a href="#" class="button">Advanced CS Topics/Projects (AP++)</a></li>
-			<li><a href="#" class="button">Web Design</a></li>
+            			<li>
+				{% if page.course == 'Intro' %}
+					<a href="#" class="button active">
+				{% else %}
+					<a href="#" class="button">
+				{% endif %}
+				Intro. to Computer Science</a>
+			</li>
+            			<li>
+				{% if page.course == 'AP++' %}
+					<a href="#" class="button active">
+				{% else %}
+					<a href="#" class="button">
+				{% endif %}
+				Advanced CS Topics/Projects (AP++)</a>
+			</li>
+            			<li>
+				{% if page.course == 'Web' %}
+					<a href="#" class="button active">
+				{% else %}
+					<a href="#" class="button">
+				{% endif %}
+				Web Design</a>
+			</li>
 			</ul>
 		</div>
 	  </div><!-- end banner -->
