@@ -637,6 +637,16 @@ td:first-child {
   border-left: 1px solid #ffcc00;
 }
 
+tr.category {
+  font-size: 120%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+tr.total {
+  font-weight: bold;
+}
+
 hr {
   border: 0;
   outline: none;

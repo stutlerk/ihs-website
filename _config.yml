@@ -1,5 +1,7 @@
 collections:
   stuff:
     output: true
-  projects:
+  apcs:
+    output: true
+  introcs:
     output: true
