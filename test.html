@@ -1,5 +1,6 @@
 ---
-title: AP CS
+title: AP Computer Science
+course: AP
 layout: course
 ---
 <section>
@@ -12,6 +13,20 @@ layout: course
 AP Comp Sci!!
 
 <hr />
+
+{% for cat in site.categories %}
+	<p>{{ cat }}</p>
+{% endfor %}
+
+<hr />
+
+{{ site.categories }}
+{{ site.collections }}
+
+{% for proj in site.categories.apcs %}
+	<p>{{ proj }} - {{ proj.content }}</p>
+{% endfor %}
+
 </section>
 
 <section>
@@ -57,10 +72,17 @@ AP Comp Sci!!
 -->
 <section>
 <hr />
-<p> {{ site.projects }} </p>
+<p> {{ site.apcs }} </p>
+<hr />
+<p> {{ site.collections }} </p>
+<hr />
+<p> {{ site.docs }} </p>
+<hr />
 <ul>
-{% for proj in site.projects %}
-	<li>Project {{ proj.number }} : {{ proj.title }} (due {{ proj.due | date: "%A, %B %d, %Y" }})
+{% for proj in site.apcs %}
+	{% if proj.path contains 'projects' %}
+	<p>{{ proj }}</p>
+	<li><a href="{{ proj.url }}">Project {{ proj.number }} : {{ proj.title }} (due {{ proj.due | date: "%A, %B %d, %Y" }}) </a>
 		{% if proj.checkpoints %}
 		<ol>
 			{% for chk in proj.checkpoints %}
@@ -69,6 +91,7 @@ AP Comp Sci!!
 		</ol>
 		{% endif %}
 	</li>
+	{% endif %}
 {% endfor %}
 </ul>
 </section>
