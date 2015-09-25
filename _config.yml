@@ -1,6 +1,4 @@
 collections:
-  stuff:
-    output: true
   apcs:
     output: true
   introcs:

@@ -1,4 +1,7 @@
 ---
+layout: project
+course: apcs
+
 number: 2
 title: DNA Analysis
 due: 1/12/2015

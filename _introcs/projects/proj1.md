@@ -1,6 +1,6 @@
 ---
 layout: project
-course: Intro
+course: intro
 
 number: 1
 title: Nursery Rhyme

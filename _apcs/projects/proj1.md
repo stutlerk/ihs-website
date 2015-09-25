@@ -1,4 +1,7 @@
 ---
+layout: project
+course: apcs
+
 number: 1
 title: Calculator
 due: 11/10/2014

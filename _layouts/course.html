@@ -3,20 +3,23 @@ layout: default
 ---
       <nav>
         <ul>
-			<li><a href="#">Documents</a></li>
 			<li>
                 <div class="projects">
                     <input type="checkbox" id="projToggle">
                     <label for="projToggle">Projects</label>
                     <ul class="projList">
-                        <li><a href="#">Project 1</a></li>
-                        <li><a href="#">Project 2</a></li>
-                        <li><a href="#">Project 3</a></li>
+                    {% for proj in site.documents %}
+                    {% if proj.layout == 'project' and proj.course == page.course %}
+                        <li><a href="{{ proj.url }}">Project {{ proj.number }} - {{ proj.title }}</a></li>
+                    {% endif %}
+                    {% endfor %}
                     </ul>
                 </div>
             </li>
+			<li><a href="#">Documents</a></li>
 			<li><a href="#">Links</a></li>
 			<li><a href="#">Forum</a></li>
+            -------
 		</ul>
       </nav>
     
