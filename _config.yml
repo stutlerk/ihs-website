@@ -1,4 +1,6 @@
 baseurl: /ihs-website
+kramdown:
+  input: GFM
 collections:
   apcs:
     output: true
