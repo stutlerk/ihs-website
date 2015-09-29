@@ -1,3 +1,4 @@
+baseurl: /ihs-website
 collections:
   apcs:
     output: true

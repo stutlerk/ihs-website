@@ -10,7 +10,7 @@ layout: default
                     <ul class="projList">
                     {% for proj in site.documents %}
                     {% if proj.layout == 'project' and proj.course == page.course %}
-                        <li><a href="{{ proj.url }}">Project {{ proj.number }} - {{ proj.title }}</a></li>
+                        <li><a href="{{ site.baseurl }}{{ proj.url }}">Project {{ proj.number }} - {{ proj.title }}</a></li>
                     {% endif %}
                     {% endfor %}
                     </ul>
