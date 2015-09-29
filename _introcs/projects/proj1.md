@@ -5,7 +5,7 @@ course: introcs
 number: 1
 title: Nursery Rhyme
 due: 2015-9-28
-turnin: #
+turnin: https://canvas.instructure.com/courses/974357/assignments/3967993
 forum: https://groups.google.com/forum/#!categories/ihsintrocompsci/project-1---nursery-rhyme
 
 rubric:
@@ -27,8 +27,6 @@ rubric:
     total: 12
   implementation:
     criteria:
-      - criterion: Program shows good creativity and effort
-        value: 2
       - criterion: At least two sprites participate in the action
         value: 2
       - criterion: At least one sprite moves
@@ -39,17 +37,19 @@ rubric:
         value: 1
       - criterion: At	least	one	sprite	hides	and/or	appears
         value: 1
+      - criterion: Program shows good creativity and effort
+        value: 2
     total: 8
 ---
-## Overview
+### Overview
 A	nursery	rhyme	is	a	short	poem	or	song	written	for	children.	Though	the	term	is	typically	applied	to	British	or
 other	English	language	poems,	similar	concepts	exist	in	many	world	cultures.	These	short	stories	are	generally	
 meant	to	entertain	and/or	calm	young	children.	Some	are	believed	to	have	a	hidden	moral	or	meaning	related	
 to	historical	events,	but	many	of	these	meanings	are questionable.
 
-## Details
+### Details
 
-### Behavior
+#### Behavior
 You	will	create	a	short	animation	in	BYOB	depicting	a	nursery	rhyme	of	your	choice.
 (See [http://en.wikipedia.org/wiki/Nursery_rhymes](http://en.wikipedia.org/wiki/Nursery_rhymes) for	a	list	of	possibilities.)  Your program should meet the following requirements:
 
@@ -73,7 +73,7 @@ don't	go	too	far).	However,	all	sprites,	behaviors,	words,	and	animations	must	b
 If	you	choose	a	particularly	long	nursery	rhyme,	you	may	not	need	to	animate	the	whole	thing.	Please	
 check	with	your	teacher	if	you	think	your	rhyme	is	long	enough	for	this.
 
-### Implementation Details
+#### Implementation Details
 As	mentioned	above,	your	animation	must	display	the	nursery	rhyme	in	its	entirety	and	animate	each	line.
 Action	must	be	performed	by	sprites	and	must	consist	of	more	than	simply	changing	costumes.	You	must	
 include	the	following	components	in	your	animation:
