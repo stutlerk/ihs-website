@@ -19,6 +19,24 @@ layout: default
       </p>
     </aside>
 </section>
+
+<section>
+    <h2>Announcements</h2>
+    {% for post in site.posts %}
+        <h3>{{ post.title }}</h3>
+        <h4><em>{{ post.date | date_to_long_string }}</em></h4>
+        <h4><em>Filed under: 
+        {% for cat in post.categories %}
+            {{ cat}} 
+            {% unless forloop.last %}
+                , 
+            {% endunless %}
+        {% endfor %}
+        </em></h4>
+        <p>{{ post.content }}</p>
+    {% endfor %}
+</section>
+
 <!--
       <section>
         <h3>
