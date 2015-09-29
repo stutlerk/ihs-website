@@ -1,0 +1,22 @@
+---
+title: Intro. to Computer Science
+course: intro
+layout: course
+---
+<h1>Intro. to Computer Science</h1>
+
+<section>
+    <h2>Announcements</h2>
+    {% for post in site.posts %}
+    {% if post.categories contains page.course %}
+        <h3>{{ post.date | date_to_long_string }}</h3>
+        <p>{{ post.content }}</p>
+    {% endif %}
+    {% endfor %}
+</section>
+
+<section>
+    <h2>Calendar</h2>
+    <iframe src="https://www.google.com/calendar/embed?title=Intro.%20to%20Computer%20Science&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=amj1mvppadvsj2pji7fno8rfb8%40group.calendar.google.com&amp;color=%23182C57&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="800" height="400" frameborder="0" scrolling="no"></iframe>
+</section>
+

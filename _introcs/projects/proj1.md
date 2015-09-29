@@ -5,7 +5,7 @@ course: intro
 number: 1
 title: Nursery Rhyme
 due: 2015-9-28
-turnin: ##
+turnin: #
 forum: https://groups.google.com/forum/#!categories/ihsintrocompsci/project-1---nursery-rhyme
 
 rubric:

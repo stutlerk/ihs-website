@@ -37,37 +37,45 @@
 		-->
 
 		<div class="downloads">
-			<span>Courses:</span>
-			<ul>
+			<!--<span>Courses:</span>-->
+            <ul>
+            <li>
+                {% if page.course == 'none' %}
+					<a href="/" class="button active">
+				{% else %}
+					<a href="/" class="button">
+				{% endif %}
+				Home</a>
+            </li>
 			<li>
 				{% if page.course == 'apcs' %}
-					<a href="#" class="button active">
+					<a href="/apcs" class="button active">
 				{% else %}
-					<a href="#" class="button">
+					<a href="/apcs" class="button">
 				{% endif %}
 				AP Computer Science</a>
 			</li>
             			<li>
 				{% if page.course == 'intro' %}
-					<a href="#" class="button active">
+					<a href="/introcs" class="button active">
 				{% else %}
-					<a href="#" class="button">
+					<a href="/introcs" class="button">
 				{% endif %}
 				Intro. to Computer Science</a>
 			</li>
             			<li>
 				{% if page.course == 'ap++' %}
-					<a href="#" class="button active">
+					<a href="/applusplus" class="button active">
 				{% else %}
-					<a href="#" class="button">
+					<a href="/applusplus" class="button">
 				{% endif %}
 				Advanced CS Topics/Projects (AP++)</a>
 			</li>
             <li>
 				{% if page.course == 'web' %}
-					<a href="#" class="button active">
+					<a href="/web" class="button active">
 				{% else %}
-					<a href="#" class="button">
+					<a href="/web" class="button">
 				{% endif %}
 				Web Design</a>
 			</li>
