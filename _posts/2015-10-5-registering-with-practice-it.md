@@ -1,5 +1,5 @@
 ---
-E-mail: Registering with Practice-It and Grade-It
+title: Registering with Practice-It and Grade-It
 categories: [apcs]
 ---
 In order for me to be able to see and grade your assignments, including HW and projects, we need to do a bit of set up with the online systems we'll be using.  Please take the following steps:
