@@ -17,10 +17,10 @@ layout: default
           <aside>
             <h3>Due Dates</h3>
             <dl>
-                {% if page.checkpoints %}
-                    {% for chk in page.checkpoints %}
+                {% if proj.checkpoints %}
+                    {% for chk in proj.checkpoints %}
                         <dt>{{ chk.title }}</dt>
-                        <dd>{{ chk.date | date: "%A, %B %d, %Y" }}</dd>
+                        <dd>{{ chk.date | date_to_long_string }} (worth {{ chk.value}})</dd>
                     {% endfor %}
                 {% endif %}
                 <dt>Final Due Date</dt>
@@ -32,22 +32,18 @@ layout: default
           {{ content }}          
       </section>
       
-      {% if page.checkpoints %}
-      <section>
-        <h2>Checkpoints</h2>
-          {% for chk in page.checkpoints %}
-              <h3>{{ chk.title }}</h3>
-              <h4><em>{{ chk.date | date: "%A, %B %d, %Y" }} (worth {{ chk.value}})</em></h4>
-              <p>{{ chk.description }}</p>
-          {% endfor %}
-          <h3>Final Due Date</h3>
-          <h4><em>{{ page.due | date: "%A, %B %d, %Y" }}</em></h4>
-          <p>All required program elements are implemented and functional</p>
-      </section>
-      {% endif %}
-      
       <section>
         <h2>Rubric</h2>
+        {% comment %}
+        <p>{{ page.rubric }}</p>
+        <p>{{ page.rubric.behavior }}</p>
+        <p>{{ page.rubric['implementation'] }}</p>
+        <hr />
+        {% for crit in page.rubric.behavior %}
+        <p> {{ crit.criterion }} - {{ crit.value }}</p>
+        {% endfor %}
+        <hr />
+        {% endcomment %}
         <table border="1">
                 <tr class="category"><th colspan="2">Behavior</th></tr>
                 {% for crit in page.rubric.behavior.criteria %}
