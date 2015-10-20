@@ -10,7 +10,7 @@ forum: https://groups.google.com/forum/#!categories/ihsintrocompsci/project-2---
 
 checkpoints: 
   - title: Checkpoint 1 - Fundamentals
-    date: 2015-10-22
+    date: 2015-10-23
     value: 5%
     description: Screens should be designed; the hero should be able to move and jump; gravity and barriers should work; reset button should be functional
   - title: Checkpoint 2 - Hazards
