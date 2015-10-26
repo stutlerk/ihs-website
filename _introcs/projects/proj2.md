@@ -4,7 +4,7 @@ course: introcs
 
 number: 2
 title: Platform Game
-due: 2015-10-30
+due: 2015-11-03
 turnin: https://canvas.instructure.com/courses/974357/assignments/4013645
 forum: https://groups.google.com/forum/#!categories/ihsintrocompsci/project-2---platform-game
 
@@ -14,7 +14,7 @@ checkpoints:
     value: 5%
     description: Screens should be designed; the hero should be able to move and jump; gravity and barriers should work; reset button should be functional
   - title: Checkpoint 2 - Hazards
-    date: 2015-10-27
+    date: 2015-10-28
     value: 10%
     description: Hazards and enemies should be present; death should work properly
 
