@@ -11,3 +11,15 @@ In addition, we are able to create our own class t-shirt design.  If you are int
 * All elements of the design must be school-appropriate.
 
 Please send you design to Mr. Wortzman by the start of school on **Wednesday, October 28**.  A favorite design will be chosen (either by Mr. Wortzman or by class vote) and submitted to TEALS by October 31.
+
+UPDATE: Here are the submitted designs:
+
+* [if className.equals](http://www.uberprints.com/studio?tdid=612574&tdtok=w1gmc5hphzah4t1fx6po)
+* [Back to the Slash](http://www.uberprints.com/studio?tdid=612536&tdtok=mcuuwho3iqizhicpwngh)
+* [Binary](http://www.uberprints.com/studio?tdid=612471&tdtok=2se57rojnmotedl1f9it)
+* [Eagle](http://www.uberprints.com/studio?tdid=612459&tdtok=fpqmrhhqskixv3d7hqyy)
+* [Fractal](http://www.uberprints.com/studio?tdid=612213&tdtok=x6plig75psyegg5uteeg)
+* [Digital](http://www.uberprints.com/studio?tdid=611590&tdtok=fwdpvomttqcfnzrmh5zy)
+* [Straight Outta](http://www.uberprints.com/studio?tdid=612672&tdtok=z0b535pxdifatxthuqtc)
+
+Choose your favorite and vote using [this form](https://docs.google.com/forms/d/1-GYwzQxhQ35G2Thmn4x1rJufoSu7JRrQa4wnbHp6Yzo/viewform).
