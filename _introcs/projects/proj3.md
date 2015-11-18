@@ -12,11 +12,11 @@ checkpoints:
   - title: Checkpoint 1 - Fundamentals
     date: 2015-11-24
     value: 10%
-    description: Players can control paddles; the ball starts in the middle, moves in a random direction, and bounces
+    description: Players can control paddles; the ball starts in the middle, moves in a random direction, and bounces of edges of stage
   - title: Checkpoint 2 - Ball Movement
     date: 2015-12-01
     value: 10%
-    description: The ball speeds up when it hits a paddle, and resets to the middle when it hits the left or right edge
+    description: The ball bounces and speeds up when it hits a paddle, and resets to the middle and scores a point when it hits the left or right edge
 
 rubric:
   total: 40
