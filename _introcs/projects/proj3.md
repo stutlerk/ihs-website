@@ -31,31 +31,35 @@ rubric:
       - criterion:  Ball increases in speed each time it bounces off a paddle                            
         value: 3   
       - criterion:  A point is scored for the opponent each time the ball touches the left or right edge 
-        value: 3   
+        value: 2   
       - criterion:  Game ends when one player reaches five points                                        
         value: 2   
       - criterion:  Winning player is shown when game ends                                               
         value: 1    
       - criterion:  Players can begin a new game                                                         
         value: 1    
-    total: 19
+    total: 18
   implementation:
     criteria:
       - criterion:  Gameplay is smooth, polished, and intuitive                                          
-        value: 3   
+        value: 2   
       - criterion:  Program shows good creativity and effort                                             
         value: 2   
       - criterion:  Program is well-documented and exhibits good style                                   
         value: 2   
       - criterion:  Program includes at least three custom blocks, including at least one with arguments 
-        value: 4   
-      - criterion:  Custom blocks, including arguments and reporters, are used where appropriate         
-        value: 2   
+        value: 3   
+      - criterion:  Additional custom blocks, including arguments and reporters, are used where appropriate         
+        value: 1   
+      - criterion:  Provide valuable playtest feedback to at least two other students
+        value: 2
+      - criterion:  Obtain and respond to playtest feedback from at least two other students
+        value: 2        
       - criterion:  Checkpoint 1                                                                         
         value: 4   
       - criterion:  Checkpoint 2                                                                         
         value: 4    
-    total: 21
+    total: 22
 ---
 ### Overview
 
