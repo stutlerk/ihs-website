@@ -1,6 +1,6 @@
 ---
 title: PS CSTA Programming Contest
-categories: [ap, ap++]
+categories: [apcs, ap++]
 ---
 The Puget Sound Computer Science Teachers Association is holding its annual Winter Programming Contest on Saturday, December 12.  This competition is a great chance to practice your programming skills, meet some really cool professional computer scientists, and win prizes!  More information on the contest is available on the [contest webpage](http://pscsta.org/pscsta-programming-contest/).  Lunch is provided for all participants, and there will be raffles as well!
 
