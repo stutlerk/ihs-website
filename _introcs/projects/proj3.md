@@ -10,7 +10,7 @@ forum: #
 
 checkpoints: 
   - title: Checkpoint 1 - Fundamentals
-    date: 2015-11-23
+    date: 2015-11-24
     value: 10%
     description: Players can control paddles; the ball starts in the middle, moves in a random direction, and bounces
   - title: Checkpoint 2 - Ball Movement
