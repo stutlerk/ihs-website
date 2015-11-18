@@ -4,7 +4,7 @@ course: introcs
 
 number: 3
 title: Pong
-due: 2015-12-04
+due: 2015-12-07
 turnin: #
 forum: #
 
