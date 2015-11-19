@@ -5,7 +5,7 @@ course: introcs
 number: 3
 title: Pong
 due: 2015-12-07
-turnin: #
+turnin: https://canvas.instructure.com/courses/974357/assignments/4105679
 forum: #
 
 checkpoints: 
