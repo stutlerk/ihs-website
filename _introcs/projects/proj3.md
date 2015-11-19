@@ -27,9 +27,11 @@ rubric:
       - criterion:  Ball begins play at middle of field at start of game and after each point            
         value: 3   
       - criterion:  Ball bounces correctly off upper and lower edges and paddles                         
-        value: 4   
-      - criterion:  Ball increases in speed each time it bounces off a paddle                            
         value: 3   
+      - criterion:  Ball increases in speed each time it bounces off a paddle                            
+        value: 3
+      - criterion:  Each player's score is displayed
+        value: 1
       - criterion:  A point is scored for the opponent each time the ball touches the left or right edge 
         value: 2   
       - criterion:  Game ends when one player reaches five points                                        
@@ -71,7 +73,7 @@ In 1972, when video games were still very new and relatively unknown, a new game
 Pong is played by two players each controlling a paddle with the goal of defending their end of the "field."  A ball begins play in the middle of the screen and, at the start of each round, moves in a random direction.  The ball bounces off the upper and lower edges of the field and the players' paddles.  Each time the ball bounces off a paddle, its speed increases by a small amount.  When the ball bounces off a paddle, its direction is reversed with a small random variation to add unpredictability to the game.
 
 ####  Scoring
-If the ball touches the left or right edge of the field, a point is scored for the opponent of the player who was defending that edge and the ball resets to the middle of the field.  When one player reaches 5 points, the game is over and that player is the winner.  The winner is announced on the screen and the players are given the opportunity to start a new game.
+Each player has a score, which should be displayed on the stage.  If the ball touches the left or right edge of the field, a point is scored for the opponent of the player who was defending that edge and the ball resets to the middle of the field.  When one player reaches 5 points, the game is over and that player is the winner.  The winner is announced on the screen and the players are given the opportunity to start a new game.
 
 #### Player Control
 Paddles are positioned a short distance away from the side they are defending, and can only move up and down, not side to side.  Each player should have two keys to control the movement of their paddle: one for up, and one for down.  Paddles move at a set speed that is the same for both players can cannot be controlled.  The player on the left will control his/her paddle with the 'w' and 's' keys.  The player on the right will use the up arrow and down arrow keys.
