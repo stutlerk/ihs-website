@@ -11,7 +11,7 @@ forum: #
 checkpoints:
   - title: Checkpoint 1 - Parsing Input
     date: 2015-12-01
-    value: 5%
+    value: 10%
     description: main() creates a Scanner and reads one line of input; produceAnswer() breaks a single line of input into the relevant three parts, stores each part in a variable, and returns the second operand
   - title: Checkpoint 2 - Driver and Fractions
     date: 2015-12-07
@@ -30,11 +30,11 @@ rubric:
         value: 1
       - criterion: Program is able to parse each line of input into three parts (value, operator, value)
         value: 2
-      - criterion: Program is able to handle integers, proper fractions, improper fractions, and mixed numbers, both positive and negative
-        value: 4
       - criterion: Program is able to parse each fraction value into three parts (whole, numerator, denominator)
         value: 3
-      - criterion: Program echoes input and outputs result
+      - criterion: Program is able to handle integers, proper fractions, improper fractions, and mixed numbers, both positive and negative
+        value: 4
+      - criterion: Program output is in proper format
         value: 2
       - criterion: Output is a mixed fraction in lowest terms
         value: 4
@@ -45,19 +45,19 @@ rubric:
     total: 25
   implementation:
     criteria:
-      - criterion: '`main` is a concise summary of program behavior'
+      - criterion: main is a concise summary of program behavior
         value: 1
-      - criterion: '`produceAnswer` is implemented as required'
+      - criterion: produceAnswer is implemented as required
         value: 2
       - criterion: Program uses good procedural decomposition, including parameters and return values
-        value: 3
+        value: 2
       - criterion: Program is well-documented and uses good style
         value: 2
       - criterion: Checkpoint 1
-        value: 2
+        value: 4
       - criterion: Checkpoint 2
         value: 4
-    total: 14
+    total: 15
 ---
 ### Overview
 Modern computers are capable of an incredibly varied set of operations and behaviors, from analyzing data to playing movies to supporting complex three-dimensional games.  At the core of all these programs, however, is the central talent of computers—- performing mathematical operations.  We will utilize this basic skill to implement a calculator program that will perform a variety of operations on fractions.
@@ -81,7 +81,7 @@ Your program should begin by welcoming the user to the program.  Then, it should
 - Echo the expression that was input and print the result (see "Output" above).
 - Ask for another expression and repeat.
 
-The program should continue through this loop until the user types "quit."  You should ignore case when checking the input (i.e. "quit," "QUIT," "Quit," and "qUiT," among others, should all end the program).
+The program should continue through this loop until the user types "quit."  You should ignore case when checking the input (i.e. "quit," "QUIT," "Quit," and "qUiT," among others, should all end the program).  Once the user types quit, the program should print a goodbye message and terminate.
 
 ### Implementation Details
 
@@ -89,15 +89,28 @@ The program should continue through this loop until the user types "quit."  You 
 Your code must conform to the following requirements in the implementation:
 
 - Your file must be named "FractionCalculator.java".
-- Your `main` method must represent a concise summary of the behavior of your program, and must only contain the main driver loop.  Your `main` method should use a `Scanner` to receive input and should call `produceAnswer` (see below) with that input and print the result according to the specification.
+- Your main method must represent a concise summary of the behavior of your program, and must only contain the main driver loop.  Your main method should use a Scanner to receive input and should call produceAnswer (see below) with that input and print the result according to the specification.
 - Your program must include a method with the following prototype: 
-```java
+```
 public static String produceAnswer(String input)
 ```
-This method should take a single line of user input as its parameter (e.g. "1/2 * 3/4"), perform the indicated calculation, and return the result as a `String` (e.g. "3/8").  _This method should NOT print anything!_ 
+This method should take a single line of user input as its parameter (e.g. "1/2 * 3/4"), perform the indicated calculation, and return the result as a String (e.g. "3/8").  _This method should NOT print anything!_ 
 
 #### Unit Testing
 You will be provided with a suite of unit tests to run against your program.  In order to receive full credit for any checkpoint or the final submission, your program must pass ALL relevant unit tests.  Note that these tests are not exhaustive, so passing all the tests does not guarantee any particular grade.  Details on importing and running the tests in jGRASP will be provided soon.
+
+#### Extra Credit
+You may earn extra credit by implementing additional features beyond those that are required.  Point values for extra credit features will be solely at my discretion and will be determined based on creativity and difficulty of implementation.  **No extra credit will be awarded for features that break required functionality, and points will still be lost for failing to meet requirements.**  It is HIGHLY recommended that you not attempt extra credit work until your project is fully complete.  Extra credit will be capped at 10% of the total project value.
+
+Possible extra credit features include (but are not limited to):
+
+- Detecting and issuing error messages for invalid input
+- Adding additional operations
+- Handling multiple operations at once (e.g  3 + 4 * 5)
+  - More extra credit for doing this and respecting order of operations!
+
+Note that your extra credit work must not cause any of your unit tests to fail or otherwise cause the program functionality to change.  In other words, your extra credit features must not require the user to change their behavior to use the program properly-- you must simply add additional, optional features.
+
 
 
   
