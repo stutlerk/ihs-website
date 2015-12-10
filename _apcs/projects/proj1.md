@@ -99,6 +99,8 @@ This method should take a single line of user input as its parameter (e.g. "1/2 
 #### Unit Testing
 You will be provided with a suite of unit tests to run against your program.  In order to receive full credit for any checkpoint or the final submission, your program must pass ALL relevant unit tests.  Note that these tests are not exhaustive, so passing all the tests does not guarantee any particular grade.  Details on importing and running the tests in jGRASP will be provided soon.
 
+**UPDATE**: A baseline set of [Unit Tests]({{site.baseurl}}/apcs/FractionCalculatorTestFinal.java) is now available.  Follow the instructions given in class to use these to test your project.
+
 #### Extra Credit
 You may earn extra credit by implementing additional features beyond those that are required.  Point values for extra credit features will be solely at my discretion and will be determined based on creativity and difficulty of implementation.  **No extra credit will be awarded for features that break required functionality, and points will still be lost for failing to meet requirements.**  It is HIGHLY recommended that you not attempt extra credit work until your project is fully complete.  Extra credit will be capped at 10% of the total project value.
 
