@@ -92,7 +92,7 @@ Your program must include, at a minimum, the following Snap! code elements:
 * At least two lists, once of which must be used to track guessed letters
 * Custom blocks as appropriate, including arguments and reporters
 
-#### Peer Feedback
+#### Parent Feedback
 For this project, we will continue the process of undergoing a review of your work by an outsider reviewer.  This time, however, your program will be reviewed by a parent, guardian, or other adult family member.  After receiving your feedback, you should consider the comments carefully and respond.  You will turn in the feedback provided to you along with responses indicating how you modified your game in response to the feedback you received or why you chose not to make any changes.
 
 Use the [Parent Feedback Form]({{site.baseurl}}/introcs/ParentFeedbackForm.docx) for all parent reviews.
