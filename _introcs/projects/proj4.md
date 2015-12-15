@@ -78,6 +78,8 @@ In either case, when the game ends the host should stop asking for guesses.  The
 #### Word List/Secret Word
 You will be provided with a list of words from which the secret word should be chosen for each game.  You will be shown in class how to import this list into your program. At the start of each game, a word should be randomly chosen from this list to be used as the secret word.  The secret word must be chosen randomly, and must be a word in the list.
 
+UPDATE: The word list is now available for download: []({{site.baseurl}}/introcs/wordsv2.txt)
+
 #### Documentation
 In addition to functioning well, your program must be well-documented and readable.  This includes, but is not limited to, things such as:
 
