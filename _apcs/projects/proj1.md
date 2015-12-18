@@ -5,7 +5,7 @@ course: apcs
 number: 1
 title: Fraction Calculator
 due: 2015-12-16
-turnin: #
+turnin: https://gradeit-hs.cs.washington.edu/issaquah/turnin/code/turnin_page_view.php?course=APCS&quarter=2015-16&assignment=p1
 forum: #
 
 checkpoints:
