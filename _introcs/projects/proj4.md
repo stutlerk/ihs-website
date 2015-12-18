@@ -56,6 +56,8 @@ Hangman is a popular word game in which one player (the "chooser") chooses a sec
 #### Gameplay
 In our implementation of Hangman, the computer will take on the role of the "chooser" and the human player will be the "guesser."  The computer will secretly choose a word from a list (see below) and show the player how many letters are in the word by displaying a sequence of blanks (underscores).  Then, the computer will begin asking for guesses.  If the player guesses a letter that is in the secret word, all blanks representing an instance of that letter should be replaced by the letter.  If the guessed letter is not in the word at all, the player should lose a chance and a new part of the Hangman figure should appear.  If the player guesses a letter he or she has already guessed, he or she should not lose a chance, even if that letter is not in the word.  If the player guesses all letters in the word, he or she wins.  If the Hangman figure is completed, the player loses.  In either case, the secret word should be revealed after the game is over.
 
+**UPDATE**: You can download and run Mr. Wortzman's version of the game here: [Hangman.zip]({{site.baseurl}}/introcs/Hangman.zip).  Download the .zip file, extract, and run Hangman.exe from inside the folder.
+
 #### Sprites
 Your game will need to include at least three sprites: the Hangman itself, a "host" sprite that asks the player for a guess and informs him or her whether or not the guess is correct, and an "assistant" sprite that tells the player the status of the secret word.  You may use more sprites if you think they are appropriate. The host and assistant should have clear roles and should never do each other's job.
 
