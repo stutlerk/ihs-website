@@ -5,7 +5,7 @@ course: introcs
 number: 4
 title: Hangman
 due: 2016-01-05
-turnin: #
+turnin: https://canvas.instructure.com/courses/974357/assignments/4249447
 forum: #
 
 rubric:
