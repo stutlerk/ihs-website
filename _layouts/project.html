@@ -49,6 +49,7 @@ layout: default
       <section>
         <h2>Rubric</h2>
         <table border="1">
+                {% if page.rubric.behavior %}
                 <tr class="category"><th colspan="2">Behavior</th></tr>
                 {% for crit in page.rubric.behavior.criteria %}
                     <tr><td>{{ crit.criterion }}</td>
@@ -56,6 +57,17 @@ layout: default
                     </tr>
                 {% endfor %}
                 <tr class="total"><td>Total</td><td>{{ page.rubric.behavior.total }} points</td></tr>
+                {% endif %}
+
+                {% if page.rubric.design %}
+                <tr class="category"><th colspan="2">Design</th></tr>
+                {% for crit in page.rubric.design.criteria %}
+                    <tr><td>{{ crit.criterion }}</td>
+                        <td>{{ crit.value }} points</td>
+                    </tr>
+                {% endfor %}
+                <tr class="total"><td>Total</td><td>{{ page.rubric.design.total }} points</td></tr>
+                {% endif %}
                 
                 <tr class="category"><th colspan="2">Implementation</th></tr>
                 {% for crit in page.rubric.implementation.criteria %}
