@@ -63,8 +63,8 @@ You should not have any need to modify or work with PicEditMain.java, other than
 | public Picture(Picture pic) | Constructor.  Creates a new Picture that is a copy of pic. |
 | public java.awt.Color[][] getPixels() | Gets the array of pixels that make up this Picture. |
 | public void setPixels(java.awt.Color[][] colors) | Sets the full set of pixels for this Picture. |
-| public int height() | Returns the height of this Picture in pixels. |
-| public int width() | Returns the width of this Picture in pixels. |
+| public int getHeight() | Returns the height of this Picture in pixels. |
+| public int getWidth() | Returns the width of this Picture in pixels. |
 
 ### Required Methods
 For this project, you will implement six static methods to manipulate a Picture. For our purposes, an image is simply represented as a two-dimensional array of pixels, where each pixel has a color.  Pixels are represented using the java.awt.Color class— look this up in the Java API to see how it can be used.  Each pixel contains levels of the colors red, green, and blue which can be mixed to create all possible colors.  Each of the red, green, and blue levels is represented by an integer between 0 and 255 (inclusive).
