@@ -29,7 +29,7 @@ rubric:
          value: 6
        - criterion: Wireframes/Sketches
          value: 4
-       - criterion: Feature List
+       - criterion: Scenarios
          value: 4
        - criterion: Project Organizer (Specification)
          value: 8
