@@ -22,7 +22,7 @@ rubric:
         value: 4
       - criterion: mirror() works correctly
         value: 4
-      - criterion: mosaic() works correctly
+      - criterion: pixelate() works correctly
         value: 5
     total: 23
   implementation:
@@ -78,7 +78,7 @@ You will implement your methods in a class called PicEdit, a skeleton for which 
 | public static Picture changeContrastAndBrightness(Picture p, double contrAmt, double brightAmt) | Returns a new picture in which the contrast and brightness have been altered according to the given parameters. Contrast and brightness are set using the formula c * (x - 128) + 128 + b, where x is the original color component, a is the contrast modifier, and b is the brightness modifier. The resulting values must be in the range [0, 255]. |
 | public static Picture outline(Picture p, double threshold) | Runs "edge detection" on the argument to produce an outlined image.  All pixels in the returned Picture will be either black (if the "color distance" between the pixel and any neighbor is greater than the given threshold) or white (if the "color distance" between the pixel and all neighbors is less than or equal to the given threshold).  The "color distance" between to colors c1 and c2 is defined as the square root of:   (c1.red - c2.red)^2 + (c1.green - c2.green)^2 + (c1.blue - c2.blue)^2 |
 | public static Picture mirror(Picture p, char dir) | Returns a new Picture which contains the same pixels as p but mirrored across either the vertical or horizontal axis.  The dir parameter indicates in which direction p should be reflected ('h' for horizontal, 'v' for vertical; case sensitive). |
-| public static Picture pixelate(Picture p, int radius) | Returns a new Picture that is a pixelated version of p. Blocks of pixels with the given "box radius" should all be set to the average of all original pixels in the block.  | 
+| public static Picture pixelate(Picture p, int radius) | Returns a new Picture that is a pixelated version of p. Blocks of pixels with the given "box radius" should all be set to the average of all original pixels in the block. If the width or height of p is not a multiple of radius, use truncated boxes to cover the remainder. | 
 
 ### Testing
 A compiled version of the project, with all extra credit features implemented, is available for download: [PicEdit.jar]({{site.baseurl}}\apcs\PicEdit.jar).  You may use this program to test your functionality by comparing the results.
