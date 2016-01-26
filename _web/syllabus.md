@@ -1,6 +1,6 @@
 ---
 title: Web Design
-course: Web
+course: web
 layout: course
 ---
 <section markdown="1">
