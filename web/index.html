@@ -1,0 +1,29 @@
+---
+title: Web Design
+course: web
+layout: course
+
+forum: https://groups.google.com/forum/#!forum/ihs-web-design
+---
+<h1>Intro. to Computer Science</h1>
+
+<section>
+    <h2>Announcements</h2>
+    {% for post in site.posts %}
+    {% if post.categories contains page.course %}
+        <h3>{{ post.title }}</h3>
+        <h4><em>{{ post.date | date_to_long_string }}</em></h4>
+        <p>{{ post.content }}</p>
+    {% endif %}
+    {% endfor %}
+    
+    <aside>
+        <h3><a href="http://goo.gl/forms/9RE9vuujyF">Project Work Day Exit Ticket</a></h3>
+    </aside>
+</section>
+
+<section>
+    <h2>Calendar</h2>
+    <iframe src="https://calendar.google.com/calendar/embed?showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=mk8b8kjvhloml342env7d4m5n0%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
+</section>
+
