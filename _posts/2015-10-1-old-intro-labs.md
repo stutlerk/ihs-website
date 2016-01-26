@@ -1,6 +1,6 @@
 ---
 title: Submitting old labs
-categories: [introcs]
+categories: []
 ---
 Now that we are ready to submit assignments, I'd like you all to turn in a couple of the labs we've completed previously.  Please submit the following assignments using the links below:
 
