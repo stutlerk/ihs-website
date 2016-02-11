@@ -6,3 +6,5 @@ collections:
     output: true
   introcs:
     output: true
+  web:
+    output: true
