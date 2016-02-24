@@ -5,7 +5,7 @@ course: introcs
 number: 1
 title: Nursery Rhyme
 due: 2016-2-25
-turnin: https://canvas.instructure.com/courses/974357/assignments/3967993
+turnin: https://canvas.instructure.com/courses/1001373/assignments/4451257
 forum: https://groups.google.com/forum/#!categories/ihsintrocompsci/project-1---nursery-rhyme
 
 rubric:
