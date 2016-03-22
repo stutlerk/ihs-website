@@ -59,6 +59,16 @@ layout: default
                 <tr class="total"><td>Total</td><td>{{ page.rubric.behavior.total }} points</td></tr>
                 {% endif %}
 
+                {% if page.rubric.proposal %}
+                <tr class="category"><th colspan="2">Proposal</th></tr>
+                {% for crit in page.rubric.proposal.criteria %}
+                    <tr><td>{{ crit.criterion }}</td>
+                        <td>{{ crit.value }} points</td>
+                    </tr>
+                {% endfor %}
+                <tr class="total"><td>Total</td><td>{{ page.rubric.proposal.total }} points</td></tr>
+                {% endif %}
+                
                 {% if page.rubric.design %}
                 <tr class="category"><th colspan="2">Design</th></tr>
                 {% for crit in page.rubric.design.criteria %}
