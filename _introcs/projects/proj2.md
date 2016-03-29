@@ -5,7 +5,7 @@ course: introcs
 number: 2
 title: Platform Game
 due: 2016-03-31
-turnin: https://canvas.instructure.com/courses/974357/assignments/4013645
+turnin: https://canvas.instructure.com/courses/1001373/assignments/4578901
 forum: https://groups.google.com/forum/#!categories/ihsintrocompsci/project-2---platform-game
 
 checkpoints: 
