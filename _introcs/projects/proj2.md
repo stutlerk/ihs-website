@@ -133,4 +133,4 @@ As part of the software development experience on this project, you will partici
 
 After receiving your peer feedback, you should consider the comments carefully and respond.  You will turn in the feedback provided to you along with responses indicating how you modified your game in response to the feedback you received or why you chose not to make any changes.
 
-Use the [Peer Feedback Form]({{site.baseurl}}/introcs/PeerFeedbackForm.docx) for all peer reviews.  Both the reviewer and the developer will submit the form, so make sure you share the completed form with each other.
+Use the [Peer Feedback Form]({{site.baseurl}}/introcs/Peer Feedback Form.docx) for all peer reviews.  Both the reviewer and the developer will submit the form, so make sure you share the completed form with each other.
