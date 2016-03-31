@@ -74,7 +74,7 @@ Searching and sorting algorithms, such as those learned in class, are often used
 ### Behavior
 
 #### Program Operation
-Upon startup, your program should greet the user and inform them that the program will sort and filter large databases of popular songs.  You should then prompt the user for an input file from which this database should be read.  A sample file [aGazillionSongs.txt]({{site.baseurl}}\apcs\aGazillionSongs.txt) that contains over 37,000 songs from the last 100+ years is provided for you to start with.
+Upon startup, your program should greet the user and inform them that the program will sort and filter large databases of popular songs.  You should then prompt the user for an input file from which this database should be read.  A sample file [agazillionsongs.txt]({{site.baseurl}}\apcs\agazillionsongs.txt) that contains over 37,000 songs from the last 100+ years is provided for you to start with.
 
 After the user provides the input file, you should ask them to enter a sort/filter command (see below) and an output file name.  Your program should then filter and sort the input song list according to the command and output the results to the specified file.  You must take your input in the following order: input file, sort/filter command, output file.  Each piece of input should be one line.  You should NOT have a loop to process multiple files—the program should terminate after the output has been printed to the specified output file. 
 
