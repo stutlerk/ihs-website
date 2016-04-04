@@ -14,16 +14,16 @@ checkpoints:
     value: 2.5%
     description: Have a complete proposal and be ready to present to a partner
   - title: Phase II, Checkpoint 1 - Mockup
-    date: 2016-03-31
+    date: 2016-04-04
     value: 5%
     description: Create a mockup demonstrating the “look and feel” of your site with placeholder content
   - title: Phase II, Checkpoint 2 - First Page
     date: 2016-04-04
-    value: 5%
-    description: Have at least one page of your site fully implemented with content
+    value: 0%
+    description: CANCELLED
 
 rubric:
-  total: 40
+  total: 38
   proposal:
     criteria:
       - criterion: Proposal describes site organization and structure	
@@ -82,11 +82,9 @@ rubric:
         value: 1
       - criterion: Proposal (3/28)	
         value: 1
-      - criterion: Checkpoint 1 (3/31)	
+      - criterion: Checkpoint 1 (4/04	
         value: 2
-      - criterion: Checkpoint 2 (4/04)	
-        value: 2
-    total: 17
+    total: 15
 ---
 ### Overview
 Tourism is a key source of income for any state, and Washington is no exception.  In 2011 alone, the tourism industry in Washington generated $1.8 billion in tax revenue for state and local governments (source: [http://whytourismmatters.com/](http://whytourismmatters.com/)).  In today’s modern world, with an increasing percentage of travel decisions and arrangements being made online, having an attractive, intuitive, and useful website to attract visitors is key to a state’s financial health.
