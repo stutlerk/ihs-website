@@ -4,17 +4,17 @@ course: web
 
 number: 3
 title: Commercial Site
-due: 2016-05-06
+due: 2016-05-09
 turnin: https://canvas.instructure.com/courses/1005600/assignments/4641678
 forum: #
 
 checkpoints: 
   - title: Mockup
-    date: 2016-04-25
+    date: 2016-04-26
     value: 10%
     description: Create a mockup demonstrating the “look and feel” of your site with placeholder content; Granny's logo MUST be included in the mockup
   - title: Phase II, Checkpoint 2 - First Page
-    date: 2016-05-02
+    date: 2016-05-03
     value: 10%
     description: Have at least one page of your site fully implemented with content
 
@@ -86,6 +86,8 @@ A logo (in color)
 * A biography of herself and history of her shop
 * Photos and descriptions of some of her recipes
 * A calendar of events and specials in her store
+
+These materials can be downloaded here: **[Granny's Assets]({{site.baseurl}}\web\Granny's Assets.zip)**
 
 You will need to use the materials Granny provides with **_minimal modification_**.  Some amount of change may be allowed with the permission of Granny’s business manager (Mr. Wortzman), but you will not be allowed to make major alterations.  You may develop any content Granny does not provide on your own, but remember to be consistent with the tone and personality of Granny’s business, and that you must maintain integrity at all times—**do not fabricate facts or pass off others’ recipes or photos as Granny’s**.
 
