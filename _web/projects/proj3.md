@@ -82,7 +82,7 @@ Your task will be to create a website that achieves all of the above goals, whil
 
 Because her business is already established, Granny has certain branding requirements that you will need to meet.  She will be providing you with the following materials:
 
-A logo (in color)
+* A logo (in color)
 * A biography of herself and history of her shop
 * Photos and descriptions of some of her recipes
 * A calendar of events and specials in her store
