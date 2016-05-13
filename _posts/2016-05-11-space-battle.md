@@ -7,3 +7,5 @@ The [Space Battle](http://mikeware.github.io/SpaceBattleArena/) platform will be
 * Public Java Doc: [http://mikeware.github.io/SpaceBattleArena/client/java_doc/](http://mikeware.github.io/SpaceBattleArena/client/java_doc/)
 * List of Ship Images: [https://github.com/Mikeware/SpaceBattleArena/tree/master/SBA_Serv/GUI/Graphics/Ships](https://github.com/Mikeware/SpaceBattleArena/tree/master/SBA_Serv/GUI/Graphics/Ships)
 * Slides from "Find The Middle" mission briefing: [Mission1-FindTheMiddle.pptx]({{site.baseurl}}/apcs/Mission1-FindTheMiddle.pptx)
+
+**UPDATE:** Please use this form to provide the name of your ship for grading purposes [http://goo.gl/forms/fDsRCNULyt](http://goo.gl/forms/fDsRCNULyt).
