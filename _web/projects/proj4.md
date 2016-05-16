@@ -5,7 +5,7 @@ course: web
 number: 4
 title: Client Project
 due: 2016-06-07
-turnin: https://canvas.instructure.com/courses/1005600/assignments/4641678
+turnin: https://canvas.instructure.com/courses/1005600/assignments/4720717
 forum: #
 
 checkpoints: 
