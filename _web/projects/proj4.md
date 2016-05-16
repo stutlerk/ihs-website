@@ -21,7 +21,6 @@ checkpoints:
     date: 2016-06-03
     value: 5%
     description: Initial site development is complete and sent to client, feedback being processed
-	
 
 rubric:
   total: 60
@@ -62,7 +61,7 @@ rubric:
         value: 3
       - criterion: Checkpoint 2 (5/27)	
         value: 3
-	  - criterion: Checkpoint 3 (6/03)	
+      - criterion: Checkpoint 3 (6/03)	
         value: 3
     total: 30
 ---
