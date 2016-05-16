@@ -96,6 +96,6 @@ Bold dates are firm
 | **May 16: Project assigned** | May 17: Clients being solicited | May 18: Client finalized; requirements being discussed | May 19: Requirements in progress | **May 20: Checkpoint 1 - Requirements finalized; design begun** |
 | May 23: Design nearing completion | May 24: Designs complete; mockups begun | May 25: Mockups in progress | May 26: Mockups in progress | **May 27: Checkpoint 2 - Mockups complete** |
 | **May 30: Memorial Day, no school** | May 31: Feedback solicited from client; content being sourced/developed | June 1: Site development in progress | June 2: Site development in progress | **June 3: Checkpoint 3 - Initial implementation complete; client feedback sought** |
-| June 6: Revisions in progress | **June 7: PROJECT DUE |||
+| June 6: Revisions in progress | **June 7: PROJECT DUE** |||
 
 
