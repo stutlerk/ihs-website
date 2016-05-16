@@ -90,6 +90,7 @@ See the rubric below for more details.
 
 #### Suggested Timeline
 Bold dates are firm
+
 |Monday|Tuesday|Wednesday|Thursday|Friday|
 |---|---|---|---|---|
 | **May 16: Project assigned** | May 17: Clients being solicited | May 18: Client finalized; requirements being discussed | May 19: Requirements in progress | **May 20: Checkpoint 1 - Requirements finalized; design begun** |
