@@ -6,4 +6,6 @@ The [Space Battle](http://mikeware.github.io/SpaceBattleArena/) platform will be
 
 * Public Java Doc: [http://mikeware.github.io/SpaceBattleArena/client/java_doc/](http://mikeware.github.io/SpaceBattleArena/client/java_doc/)
 * List of Ship Images: [https://github.com/Mikeware/SpaceBattleArena/tree/master/SBA_Serv/GUI/Graphics/Ships](https://github.com/Mikeware/SpaceBattleArena/tree/master/SBA_Serv/GUI/Graphics/Ships)
-* Slides from "Find The Middle" mission briefing: [{{site.baseurl}}/apcs/Mission1-FindTheMiddle.pptx](Mission1-FindTheMiddle.pptx)
+* "Find The Middle" mission briefing: [{{site.baseurl}}/apcs/Mission1-FindTheMiddle.pptx](Mission1-FindTheMiddle.pptx)
+* "Hungry Hungry Baubles" mission briefing: [{{site.baseurl}}/apcs/Mission2-HungryHungryBaubles.pptx](Mission2-HungryHungryBaubles.pptx)
+* Advanced Navigation lesson: [{{site.baseurl}}/apcs/Lesson3-AdvancedMovement.pptx](Lesson3-AdvancedMovement.pptx)
