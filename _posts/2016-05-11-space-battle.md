@@ -9,3 +9,6 @@ The [Space Battle](http://mikeware.github.io/SpaceBattleArena/) platform will be
 * "Find The Middle" mission briefing: [{{site.baseurl}}/apcs/Mission1-FindTheMiddle.pptx](Mission1-FindTheMiddle.pptx)
 * "Hungry Hungry Baubles" mission briefing: [{{site.baseurl}}/apcs/Mission2-HungryHungryBaubles.pptx](Mission2-HungryHungryBaubles.pptx)
 * Advanced Navigation lesson: [{{site.baseurl}}/apcs/Lesson3-AdvancedMovement.pptx](Lesson3-AdvancedMovement.pptx)
+
+**UPDATE:** Please use this form to provide the name of your ship for grading purposes [http://goo.gl/forms/fDsRCNULyt](http://goo.gl/forms/fDsRCNULyt).
+
