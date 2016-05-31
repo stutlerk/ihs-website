@@ -25,14 +25,14 @@ rubric:
     total: 22
   implementation:
     criteria:
-        - criterion: Project is appropriately complex and creative
-          value: 6
         - criterion: Program is well-documented	and shows good style
           value: 4
         - criterion: Program uses SNAP elements effectively, including all required elements
-          value: 8
+          value: 6
+        - criterion: Project is appropriately complex and creative
+          value: 12
         - criterion: Final product meets all requirements and goals laid out in spec
-          value: 20
+          value: 16
     total: 38
 ---
 ### Overview
@@ -53,6 +53,8 @@ The phases of the project will be:
 
 ### Progress Tracking
 In phase iv, you will complete a [Final Project Development Plan]({{site.baseurl}}/introcs/Final Project Development Plan.docx).  This document will be your guides in the development phase and will help you stay on track and aware of your progress.  Throughout the development phase of the project, you will be expected to keep your spec and plan up-to-date and make adjustments as you get ahead or behind, as requirements change, or as tasks or features get reprioritized.  At the end of each coding day, your spec should be updated to reflect the current state of your project.  
+
+At the conclusion of the planning day of the project, you should submit your brainstorming and planning documents to Canvas here: [https://canvas.instructure.com/courses/1001373/assignments/4780751](https://canvas.instructure.com/courses/1001373/assignments/4780751).
 
 ### Implementation Requirements
 
