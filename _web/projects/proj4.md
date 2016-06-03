@@ -70,6 +70,8 @@ Now that we have mastered many of the technical skills necessary to design and b
 
 _You may work with a single partner on this project if you choose._
 
+**UPDATE:** The client rubric is now available for download: [Client Rubric]({{site.baseurl}}/web/Project 4 Client Rubric.docx).  You should send this document to your client blank, then ask them to return it to me.  _CLIENT EVALUATIONS SENT BY THE STUDENT WILL NOT BE ACCEPTED!!_
+
 ### Details
 
 #### Design Requirements
