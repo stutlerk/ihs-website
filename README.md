@@ -1,2 +1,2 @@
 # ihs-website
-Website for Mr. Wortzman's IHS courses
+Website for Mr. Stutler's IHS courses
