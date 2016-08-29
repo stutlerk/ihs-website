@@ -1,19 +1,19 @@
-- period: 1
+- Period: 1
   title: AP Computer Science
   
-- period: 2
-  title: AP Computer Science
-  
-- period: 3
-  title: AP Computer Science
-  
-- period: 4
+- Period: 2
   title: Intro. to Computer Science
   
-- period: 5
-  title: Web Design
+- Period: 3
+  title: AP Computer Science
   
-- period: 6
+- Period: 4
+  title: AP Computer Science
+  
+- Period: 5
   title: Prep
+  
+- Period: 6
+  title: Web Design
   
   
