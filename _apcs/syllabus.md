@@ -51,8 +51,14 @@ Each assignment will be accompanied by a rubric indicating what aspects of the a
 
 Quarter and semester grades will be computed using a process to be determined. This process will be announced as soon as it is finalized, and well in advance of the midpoint of the first grading period.
 
+### Materials
+Students will be expected to bring to class each day:
+ - Dedicated notebook for this class.
+ - Writing implements.
+ - Red ink pen.
+
 ### Textbooks
-We will be using the book _Building Java Programs: A Back to Basics Approach, Third Edition_, by Stuart Reges and Marty Stepp.
+We will be using the book **Building Java Programs: A Back to Basics Approach, Third Edition**, by Stuart Reges and Marty Stepp.
 
 ### Approximate Course Scope and Sequence (subject to change)
     
@@ -72,5 +78,5 @@ We will be using the book _Building Java Programs: A Back to Basics Approach, Th
 | 10 | Post-AP Exam Project | N/A | 4 |
 
 ### Tech Prep College Connections Program
-This course is _Tech Prep College Connections_ approved and articulated with Bellevue College and/or Lake Washington Institute of Technology.  Students who demonstrate proficiency of the college course competencies with a 'B' (3.0) or better grade, _may__be eligible_ to earn college credit through the _Tech Prep_ program. During the (semester/year) all of the college competencies will be covered in class. Students must register online using the statewide enrollment and reporting system at [http://sers.techprepwa.org](http://sers.techprepwa.org) and also are required to pay a non-refundable $46 annual consortium fee to earn college credit through the Tech Prep College Connections program at [http://pay.techprepcc.org](http://pay.techprepcc.org). Students MUST register for Tech Prep college credit **while they are enrolled** in the high school course.  We will discuss this further and set aside class time to register later in the course.
+This course is approved by _Tech Prep College Connections_ and articulated with Bellevue College and/or Lake Washington Institute of Technology. Students who demonstrate proficiency of the college course competencies with a 'B' (3.0) or better grade, _may_ be eligible to earn college credit through the _Tech Prep_ program. During the (semester/year) all of the college competencies will be covered in class. Students must register online using the statewide enrollment and reporting system at [http://sers.techprepwa.org](http://sers.techprepwa.org) and also are required to pay a non-refundable $46 annual consortium fee to earn college credit through the Tech Prep College Connections program. Find complete information at [http://www.techprepcc.org](http://www.techprepcc.org). Students MUST register for Tech Prep college credit **while they are enrolled** in the high school course. We will discuss this further and set aside class time to register later in the course.
 </section>
