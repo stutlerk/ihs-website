@@ -4,7 +4,7 @@ course: web
 layout: course
 ---
 <section markdown="1">
-## 2016-2016 We7 Design Syllabus
+## 2016-2017 Web Design Syllabus
 
 ### Overview
 Welcome to Web Design! In this class, you will learn all the basics of designing a modern website, from technologies to design theory. Whether you’re an artist, designer, programmer, marketer, or just interested in the Internet, we have something for you! Along the way you’ll build several real, working websites, and by the end of the semester you will have developed real-world skills and have completed work that you can be proud of.
