@@ -53,9 +53,10 @@ Quarter and semester grades will be computed using a process to be determined. T
 
 ### Materials
 Students will be expected to bring to class each day:
- - Dedicated notebook for this class.
- - Writing implements.
- - Red ink pen.
+
+- Dedicated notebook for this class.
+- Writing implements.
+- Red ink pen.
 
 ### Textbooks
 We will be using the book **Building Java Programs: A Back to Basics Approach, Third Edition**, by Stuart Reges and Marty Stepp.
