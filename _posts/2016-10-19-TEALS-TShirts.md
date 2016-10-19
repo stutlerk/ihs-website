@@ -1,1 +1,8 @@
----title: Welcome Comp Sci Students!categories: [apcs, introcs, web]---Welcome to Issaquah High School computer science! Please take a few minutes and fill out the survey [Hello, My Name Is...](https://goo.gl/forms/JLYuUXk5Vi9ls0KI3){:target="_blank"} during class on Friday, 9/2, to tell me about yourself.Syllabus slips stating that you have read and understand the syllabus, and agree to its terms, are due Wednesday, 9/7, with both your signature and your parent/guardian's signature.
+---
+title: TEALS T-Shirt Designs Due Friday 10/28
+categories: [apcs]
+---
+TEALS K-12 wants to give each of my AP Computer Science students a free t-shirt! The only catch is that we have to create
+the design for the front of the shirt. See the <a href="http://www.tealsk12.org/partners/classroom-t-shirt-guidelines/">
+Classroom T-Shirt Guidelines</a> for details. Designs are due Friday 10/28/2016, and then we will vote to decide on the
+winner!
