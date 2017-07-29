@@ -4,7 +4,7 @@ course: introcs
 layout: course
 ---
 <section markdown="1">
-## 2016-2017 Intro to Computer Science Syllabus
+## 2017-2018 Intro to Computer Science Syllabus
 
 ### Overview
 Welcome to Introduction to Computer Science! In this class, you'll learn the basics of computer science and computer programming and develop the skills to start writing programs of your own. Don't worry if you've never programmed before; we don't require any previous experience and will teach you everything you need to know. Be prepared to move quickly and work hard all semester long, but expect to have a lot of fun too!
@@ -19,16 +19,17 @@ Students are expected to act respectfully, courteously and appropriately at all 
 - Do not create problems for your classmates or the instructors, and attempt to fix problems you encounter quickly and quietly.
 - Do not cause distractions in the classroom.
 - Be attentive and on task at all times.
+- Harassment of any type will **not** be tolerated.
 - **No food in the classroom. No drinks except for water in a closed container.**
 So long as it is not abused, students will be given the freedom to manage their educational experience in whatever way works best for them. Students are expected to take responsibility for their own actions and decisions, and accept the consequences, both positive and negative, of the choices they make.
 
 #### Professionalism
-Intro to Computer Science is a **CTE** (Career and Technical Education) course, and as such, there are certain expectations that go beyond what you might have in any other class. CTE courses have a focus on _career skills_ and _professionalism_, and strive to give a _real-world_ experience. Because of this, **professionalism** is a major point of emphasis. Consider this classroom to be like a workplace: you have just been hired by a software company, and this classroom is your office. Treat your coworkers (classmates) and your managers (instructors) with the respect you would expect to show in a work environment.
+Intro to Computer Science is a **CTE** (Career and Technical Education) course, and as such, there are certain expectations that go beyond what you might have in any other class. CTE courses have a focus on _career skills_ and _professionalism_, and strive to give a _real-world_ experience. Because of this, **professionalism** is a major point of emphasis. Consider this classroom to be like a workplace: you have just been hired by a software company and this classroom is your office. Treat your coworkers (classmates) and your managers (instructors) with the respect you would expect to show in a work environment.
 
 #### Use of Technology
 Students are allowed and encouraged to use technology in class, subject to the following rules:
 
-- Classroom computers should be used for Intro to Computer Science-related work. In particular, you should not use the computers to check email, look at your grades, or do work for other classes **without permission from the course staff**. When given approval, students may use the computers for other academic purposes if they have completed their current assignment.Classroom computers **should never be used for playing games, accessing social media, or other non-academic activities.**
+- Classroom computers should be used for Intro to Computer Science-related work. In particular, you should not use the computers to check email, look at your grades, or do work for other classes **without permission from the course staff**. When given approval, students may use the computers for other academic purposes if they have completed their current assignment. Classroom computers **should never be used for playing games, accessing social media, or other non-academic activities.**
 - Personal electronics (cell phones, MP3 players, iPads, etc.) are not to be used in class except in approved circumstances.
  - **Exception:** When music is playing over the classroom speakers, you may be listening to your own music if you choose. However, _it is your responsibility to ensure that you are aware of what is happening in the classroom,_ and personal music must be turned off when the classroom music goes off. I recommend only using one headphone so you can still hear.
 
