@@ -12,13 +12,14 @@ Welcome to AP Computer Science! In this class, you'll learn the basics of comput
 ### Classroom Expectations
 
 #### Student Behavior
-Students are expected to act respectfully, courteously and appropriately at all times. In particular:
+Students are expected to act respectfully, courteously, and appropriately at all times. In particular:
 
 - Arrive on time and remain attentive until dismissed.
 - Come to class with all necessary materials, and prepared to learn and participate.
 - Do not create problems for your classmates or the instructors, and attempt to fix problems you encounter quickly and quietly.
 - Do not cause distractions in the classroom.
 - Be attentive and on task at all times.
+- Harassment of any type will **not** be tolerated.
 - **No food in the classroom. No drinks except for water in a closed container.**
 So long as it is not abused, students will be given the freedom to manage their educational experience in whatever way works best for them. Students are expected to take responsibility for their own actions and decisions and to accept the consequences, both positive and negative, of the choices they make.
 
