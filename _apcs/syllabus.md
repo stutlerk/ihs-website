@@ -4,7 +4,7 @@ course: apcs
 layout: course
 ---
 <section markdown="1">
-## 2016-2017 AP Computer Science Syllabus
+## 2017-2018 AP Computer Science Syllabus
 
 ### Overview
 Welcome to AP Computer Science! In this class, you'll learn the basics of computer science and computer programming and develop the skills and expertise necessary to ace the AP CS exam in May. Don't worry if you've never programmed before; we don't require any previous experience and will teach you everything you need to know. Getting from zero to AP Exam in eight months takes a lot of work, though, so be prepared to move quickly and work hard all year long. But expect to have a lot of fun too!
@@ -59,7 +59,7 @@ Students will be expected to bring to class each day:
 - Red ink pen.
 
 ### Textbooks
-We will be using the book **Building Java Programs: A Back to Basics Approach, Third Edition**, by Stuart Reges and Marty Stepp.
+We will be using the book **Building Java Programs: A Back to Basics Approach**, by Stuart Reges and Marty Stepp as our primary textbook. When the AP exam is approaching, we will also use exam prep books.
 
 ### Approximate Course Scope and Sequence (subject to change)
     
