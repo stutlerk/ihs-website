@@ -1,5 +1,5 @@
 ---
-title: CodeDay Seattle Eastside
+title: Skyline Programming Contest
 categories: [apcs]
 ---
 Go to the [Skyline High School Programming Competition](http://spartanprogrammingcompetition.weebly.com/){:target="_blank"}!
