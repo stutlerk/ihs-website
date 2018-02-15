@@ -1,5 +1,5 @@
 ---
-title: TEALS T-Shirts! *Designs due Sunday, Feb 25 at 7pm*
+title: TEALS T-Shirts! Designs due Sunday, Feb 25 at 7pm
 categories: [apcs]
 ---
 1. Go to [Uberprints.com](http://wwww.uberprints.com){:target="_blank"} and create an account.
