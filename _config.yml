@@ -2,9 +2,9 @@ baseurl: /ihs-website
 kramdown:
   input: GFM
 collections:
-  apcs:
+  apcsa:
     output: true
-  introcs:
+  apcsprinciples:
     output: true
-  web:
+  advtopics:
     output: true
