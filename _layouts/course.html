@@ -3,25 +3,12 @@ layout: default
 ---
       <nav>
         <ul>
-	    			<li><a href="{{ site.baseurl }}/{{ page.course }}/syllabus.html">Syllabus</a></li>
-            <li>
-                <div class="projects">
-                    <input type="checkbox" id="projToggle">
-                    <label for="projToggle">Projects</label>
-                    <ul class="projList">
-                    {% for proj in site.documents %}
-                    {% if proj.layout == 'project' and proj.course == page.course %}
-                        <li><a href="{{ site.baseurl }}{{ proj.url }}">Project {{ proj.number }} - {{ proj.title }}</a></li>
-                    {% endif %}
-                    {% endfor %}
-                    </ul>
-                </div>
-            </li>
-	    			<li><a href="{{ site.baseurl }}/{{ page.course }}/homework.html">Homework</a></li>
-	    			<li><a href="{{ site.baseurl }}/{{ page.course }}/links.html">Links</a></li>
-	    			<li><a href="{{ page.forum }}">Forum</a></li>
+            <li><a href="{{ site.baseurl }}/{{ page.course }}/syllabus.html">Syllabus</a></li>
+            <li><a href="{{ site.baseurl }}/{{ page.course }}/homework.html">Homework</a></li>
+            <li><a href="{{ site.baseurl }}/{{ page.course }}/links.html">Links</a></li>
+            <li><a href="{{ page.forum }}">Forum</a></li>
             <li>-----</li>
-	    </ul>
+        </ul>
     </nav>
     
   {{ content }}
