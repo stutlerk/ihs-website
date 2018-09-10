@@ -1,10 +1,10 @@
 ---
 title: AP Computer Science
-course: apcs
+course: apcsa
 layout: course
 ---
 <section markdown="1">
-## 2017-2018 AP Computer Science Syllabus
+## 2018-2019 AP Computer Science Syllabus
 
 ### Overview
 Welcome to AP Computer Science! In this class, you'll learn the basics of computer science and computer programming and develop the skills and expertise necessary to ace the AP CS exam in May. Don't worry if you've never programmed before; we don't require any previous experience and will teach you everything you need to know. Getting from zero to AP Exam in eight months takes a lot of work, though, so be prepared to move quickly and work hard all year long. But expect to have a lot of fun too!
@@ -24,7 +24,7 @@ Students are expected to act respectfully, courteously, and appropriately at all
 So long as it is not abused, students will be given the freedom to manage their educational experience in whatever way works best for them. Students are expected to take responsibility for their own actions and decisions and to accept the consequences, both positive and negative, of the choices they make.
 
 #### Professionalism
-AP Computer Science is a **CTE** (Career and Technical Education) course, and as such, there are certain expectations that go beyond what you might have in any other class. CTE courses have a focus on _career skills_ and _professionalism_, and strive to give a _real-world_ experience. Because of this, **professionalism** is a major point of emphasis. Consider this classroom to be like a workplace—you have just been hired by a software company, and this classroom is your office. Treat your coworkers (classmates) and your managers (instructors) with the respect you would expect to show in a work environment.
+AP Computer Science A is a **CTE** (Career and Technical Education) course, and as such, there are certain expectations that go beyond what you might have in any other class. CTE courses have a focus on _career skills_ and _professionalism_, and strive to give a _real-world_ experience. Because of this, **professionalism** is a major point of emphasis. Consider this classroom to be like a workplace: you have just been hired by a software company and this classroom is your office. Treat your coworkers (classmates) and your managers (instructors) with the respect you would expect to show in a work environment.
 
 #### Use of Technology
 Students are allowed and encouraged to use technology in class, subject to the following rules:
@@ -39,12 +39,12 @@ It is **YOUR RESPONSIBILITY** to find out what was covered on a day you were abs
 ### Coursework
 Coursework will fall into one of two categories:
 
-1. #### Projects/Assessments (80% of final grade)
+1. #### Projects/Assessments
 There will be several large projects over the course of the semester. These will usually be assigned over one week or more and will typically have graded checkpoints along the way to ensure you are making adequate progress. Some in-class time will be provided to work on projects, but you should expect to do a significant portion of your work at home. Unless otherwise indicated, projects (including checkpoints) are due _no more than five minutes after the start of class_ on the assigned due date.
     
     Tests will be given at important points throughout the semester, including at the end of each unit. Quizzes will be given at regular intervals. Assessments may or may not be announced, and all assessments are closed-book and closed-notes unless otherwise indicated. Assessments must be completed within a single class period— **you will not be allowed to return to finish an assessment after school or at lunch**.
 
-2. #### Classwork/Homework (20% of final grade)
+2. #### Classwork/Homework
 Whereas projects are large, multi-week assignments, classwork and homework are smaller assignments expected to be completed within a week or less. Classwork exercises are due _at the end of class_ the day they are assigned. Homework is due _at the start of class_ on the assigned due date.
 
 ### Grading
