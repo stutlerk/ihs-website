@@ -6,4 +6,4 @@ Do you love to code? Do you enjoy teaching what you are good at? Techno Smart Ki
 <br>
 Camp location will be in  Sammamish. Time commitment of 3–5 hours a day in 1 or more of the following weeks: July 15, July 22, Aug 12, Aug 19.<br>
 <br>
-Compensation $20.00/hour. If interested please contact us at <a href="technosmartkids@outlook.com">technosmartkids@outlook.com</a>.
+Compensation $20.00/hour. If interested please contact us at <a href="mailto:technosmartkids@outlook.com">technosmartkids@outlook.com</a>.
