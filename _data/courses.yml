@@ -6,14 +6,15 @@
   
 - period: 3
   title: AP Computer Science A
-  
+
 - period: 4
-  title: AP Computer Science Principles
+  title: AP Computer Science A
   
 - period: 5
-  title: Prep
+  title: AP Computer Science Principles
   
 - period: 6
-  title: Advanced Comp Sci Topics & Projects
+  title: Prep
   
-  
+- period: 7
+  title: Prep
