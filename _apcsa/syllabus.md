@@ -1,13 +1,13 @@
 ---
-title: AP Computer Science
+title: AP Computer Science A
 course: apcsa
 layout: course
 ---
 <section markdown="1">
-## 2018-2019 AP Computer Science Syllabus
+## 2019-2020 AP Computer Science A Syllabus
 
 ### Overview
-Welcome to AP Computer Science! In this class, you'll learn the basics of computer science and computer programming and develop the skills and expertise necessary to ace the AP CS exam in May. Don't worry if you've never programmed before; we don't require any previous experience and will teach you everything you need to know. Getting from zero to AP Exam in eight months takes a lot of work, though, so be prepared to move quickly and work hard all year long. But expect to have a lot of fun too!
+Welcome to AP Computer Science A! In this class, you'll learn the basics of computer science and computer programming and develop the skills and expertise necessary to ace the AP CS exam in May. Don't worry if you've never programmed before; we don't require any previous experience and will teach you everything you need to know. Getting from zero to AP Exam in eight months takes a lot of work, though, so be prepared to move quickly and work hard all year long. But expect to have a lot of fun too!
 
 ### Classroom Expectations
 
