@@ -5,6 +5,6 @@ collections:
   apcsa:
     output: true
   apcsprinciples:
-    output: false
-  advtopics:
     output: true
+  advtopics:
+    output: false
